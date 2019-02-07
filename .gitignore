@@ -1,0 +1,5 @@
+deploy-cfg/db/*
+!deploy-cfg/db/README
+deploy-cfg/etc/*
+!deploy-cfg/etc/README
+.DS_Store
